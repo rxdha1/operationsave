@@ -286,16 +286,16 @@ Deeper reading: [WALL_FORENSICS](docs/WALL_FORENSICS.md) (per-challenge misses),
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        T3MP3ST COMMAND                          │
+│                        OPSAVE COMMAND                           │
 ├─────────────────────────────────────────────────────────────────┤
-│   MISSION CONTROL  ◄──  TARGET MODEL  ──►  ARSENAL (TOOLS)       │
-│                          ▲                                       │
-│   AGENT CELL:  RECON · SCANNER · EXPLOITER · INFILTRATOR ·       │
-│                EXFILTRATOR · GHOST · COORDINATOR · ANALYST       │
-│                          ▲                                       │
-│   EVIDENCE VAULT  ·  CREDENTIAL STORE  ·  FINDINGS LEDGER        │
-│                          ▲                                       │
-│   OPSEC LAYER  ·  COMMS CHANNEL  ·  LLM BACKBONE                 │
+│   MISSION CONTROL  ◄──  TARGET MODEL  ──►  ARSENAL (TOOLS)      │
+│                          ▲                                      │
+│   AGENT CELL:  RECON · SCANNER · EXPLOITER · INFILTRATOR ·      │
+│                EXFILTRATOR · GHOST · COORDINATOR · ANALYST      │
+│                          ▲                                      │
+│   EVIDENCE VAULT  ·  CREDENTIAL STORE  ·  FINDINGS LEDGER       │
+│                          ▲                                      │
+│   OPSEC LAYER  ·  COMMS CHANNEL  ·  LLM BACKBONE                │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
